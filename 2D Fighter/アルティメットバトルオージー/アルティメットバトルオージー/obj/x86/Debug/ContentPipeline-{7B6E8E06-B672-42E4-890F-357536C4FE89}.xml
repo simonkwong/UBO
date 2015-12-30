@@ -1,0 +1,2895 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\Bloody.spritefont</Source>
+      <Name>Fonts\Bloody</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Fonts\Bloody.xnb</Output>
+      <Time>2015-05-31T22:46:59.0750344-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\PoserFont.spritefont</Source>
+      <Name>Fonts\PoserFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Fonts\PoserFont.xnb</Output>
+      <Time>2015-05-31T22:46:59.0810378-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\armleftdown.png</Source>
+      <Name>Art\PlayerTextures\Test\armleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Test\armleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:59.0520172-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\armleftup.png</Source>
+      <Name>Art\PlayerTextures\Test\armleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Test\armleftup.xnb</Output>
+      <Time>2015-05-31T22:46:59.0530183-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\armrightdown.png</Source>
+      <Name>Art\PlayerTextures\Test\armrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Test\armrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:59.0530183-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\armrightup.png</Source>
+      <Name>Art\PlayerTextures\Test\armrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Test\armrightup.xnb</Output>
+      <Time>2015-05-31T22:46:59.0540186-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\footleft.png</Source>
+      <Name>Art\PlayerTextures\Test\footleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Test\footleft.xnb</Output>
+      <Time>2015-05-31T22:46:59.0550201-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\footright.png</Source>
+      <Name>Art\PlayerTextures\Test\footright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Test\footright.xnb</Output>
+      <Time>2015-05-31T22:46:59.0550201-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\handleft.png</Source>
+      <Name>Art\PlayerTextures\Test\handleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Test\handleft.xnb</Output>
+      <Time>2015-05-31T22:46:59.05602-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\handright.png</Source>
+      <Name>Art\PlayerTextures\Test\handright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Test\handright.xnb</Output>
+      <Time>2015-05-31T22:46:59.0570207-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\head.png</Source>
+      <Name>Art\PlayerTextures\Test\head</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Test\head.xnb</Output>
+      <Time>2015-05-31T22:46:59.0580223-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\legleftdown.png</Source>
+      <Name>Art\PlayerTextures\Test\legleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Test\legleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:59.0580223-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\legleftup.png</Source>
+      <Name>Art\PlayerTextures\Test\legleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Test\legleftup.xnb</Output>
+      <Time>2015-05-31T22:46:59.0590226-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\legrightdown.png</Source>
+      <Name>Art\PlayerTextures\Test\legrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Test\legrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:59.0590226-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\legrightup.png</Source>
+      <Name>Art\PlayerTextures\Test\legrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Test\legrightup.xnb</Output>
+      <Time>2015-05-31T22:46:59.0600233-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\neck.png</Source>
+      <Name>Art\PlayerTextures\Test\neck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Test\neck.xnb</Output>
+      <Time>2015-05-31T22:46:59.061024-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\torsobot.png</Source>
+      <Name>Art\PlayerTextures\Test\torsobot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Test\torsobot.xnb</Output>
+      <Time>2015-05-31T22:46:59.061024-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\torsomid.png</Source>
+      <Name>Art\PlayerTextures\Test\torsomid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Test\torsomid.xnb</Output>
+      <Time>2015-05-31T22:46:59.0620238-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\torsotop.png</Source>
+      <Name>Art\PlayerTextures\Test\torsotop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Test\torsotop.xnb</Output>
+      <Time>2015-05-31T22:46:59.063025-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\Image1.bmp</Source>
+      <Name>Art\Image1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\Image1.xnb</Output>
+      <Time>2015-05-31T22:46:58.8527333-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\yellowpixel.png</Source>
+      <Name>Art\yellowpixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\yellowpixel.xnb</Output>
+      <Time>2015-05-31T22:46:59.0710307-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\BlockTextures\explosion.png</Source>
+      <Name>Art\BlockTextures\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\BlockTextures\explosion.xnb</Output>
+      <Time>2015-05-31T22:46:58.6575947-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\BlockTextures\brickplatform.png</Source>
+      <Name>Art\BlockTextures\brickplatform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\BlockTextures\brickplatform.xnb</Output>
+      <Time>2015-05-31T22:46:58.6545922-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Left\armleftdown.png</Source>
+      <Name>Art\PlayerTextures\EJ\Left\armleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Left\armleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.8868995-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Left\armleftup.png</Source>
+      <Name>Art\PlayerTextures\EJ\Left\armleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Left\armleftup.xnb</Output>
+      <Time>2015-05-31T22:46:58.8868995-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Left\armrightdown.png</Source>
+      <Name>Art\PlayerTextures\EJ\Left\armrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Left\armrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.8879002-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Left\armrightup.png</Source>
+      <Name>Art\PlayerTextures\EJ\Left\armrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Left\armrightup.xnb</Output>
+      <Time>2015-05-31T22:46:58.8879002-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Left\footleft.png</Source>
+      <Name>Art\PlayerTextures\EJ\Left\footleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Left\footleft.xnb</Output>
+      <Time>2015-05-31T22:46:58.8889034-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Left\footright.png</Source>
+      <Name>Art\PlayerTextures\EJ\Left\footright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Left\footright.xnb</Output>
+      <Time>2015-05-31T22:46:58.8899033-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Left\handleft.png</Source>
+      <Name>Art\PlayerTextures\EJ\Left\handleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Left\handleft.xnb</Output>
+      <Time>2015-05-31T22:46:58.8899033-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Left\handright.png</Source>
+      <Name>Art\PlayerTextures\EJ\Left\handright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Left\handright.xnb</Output>
+      <Time>2015-05-31T22:46:58.8909027-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Left\head.png</Source>
+      <Name>Art\PlayerTextures\EJ\Left\head</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Left\head.xnb</Output>
+      <Time>2015-05-31T22:46:58.8909027-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Left\legleftdown.png</Source>
+      <Name>Art\PlayerTextures\EJ\Left\legleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Left\legleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.8919034-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Left\legleftup.png</Source>
+      <Name>Art\PlayerTextures\EJ\Left\legleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Left\legleftup.xnb</Output>
+      <Time>2015-05-31T22:46:58.8929059-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Left\legrightdown.png</Source>
+      <Name>Art\PlayerTextures\EJ\Left\legrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Left\legrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.8929059-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Left\legrightup.png</Source>
+      <Name>Art\PlayerTextures\EJ\Left\legrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Left\legrightup.xnb</Output>
+      <Time>2015-05-31T22:46:58.8939049-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Left\neck.png</Source>
+      <Name>Art\PlayerTextures\EJ\Left\neck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Left\neck.xnb</Output>
+      <Time>2015-05-31T22:46:58.8939049-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Left\torsobot.png</Source>
+      <Name>Art\PlayerTextures\EJ\Left\torsobot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Left\torsobot.xnb</Output>
+      <Time>2015-05-31T22:46:58.8949064-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Left\torsomid.png</Source>
+      <Name>Art\PlayerTextures\EJ\Left\torsomid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Left\torsomid.xnb</Output>
+      <Time>2015-05-31T22:46:58.8959076-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Left\torsotop.png</Source>
+      <Name>Art\PlayerTextures\EJ\Left\torsotop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Left\torsotop.xnb</Output>
+      <Time>2015-05-31T22:46:58.896907-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Right\armleftdown.png</Source>
+      <Name>Art\PlayerTextures\EJ\Right\armleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Right\armleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.8979098-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Right\armleftup.png</Source>
+      <Name>Art\PlayerTextures\EJ\Right\armleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Right\armleftup.xnb</Output>
+      <Time>2015-05-31T22:46:58.8979098-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Right\armrightdown.png</Source>
+      <Name>Art\PlayerTextures\EJ\Right\armrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Right\armrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.8989084-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Right\armrightup.png</Source>
+      <Name>Art\PlayerTextures\EJ\Right\armrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Right\armrightup.xnb</Output>
+      <Time>2015-05-31T22:46:58.8989084-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Right\footleft.png</Source>
+      <Name>Art\PlayerTextures\EJ\Right\footleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Right\footleft.xnb</Output>
+      <Time>2015-05-31T22:46:58.8999108-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Right\footright.png</Source>
+      <Name>Art\PlayerTextures\EJ\Right\footright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Right\footright.xnb</Output>
+      <Time>2015-05-31T22:46:58.9009111-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Right\handleft.png</Source>
+      <Name>Art\PlayerTextures\EJ\Right\handleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Right\handleft.xnb</Output>
+      <Time>2015-05-31T22:46:58.9009111-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Right\handright.png</Source>
+      <Name>Art\PlayerTextures\EJ\Right\handright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Right\handright.xnb</Output>
+      <Time>2015-05-31T22:46:58.9019105-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Right\head.png</Source>
+      <Name>Art\PlayerTextures\EJ\Right\head</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Right\head.xnb</Output>
+      <Time>2015-05-31T22:46:58.902913-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Right\legleftdown.png</Source>
+      <Name>Art\PlayerTextures\EJ\Right\legleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Right\legleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.902913-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Right\legleftup.png</Source>
+      <Name>Art\PlayerTextures\EJ\Right\legleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Right\legleftup.xnb</Output>
+      <Time>2015-05-31T22:46:58.903912-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Right\legrightdown.png</Source>
+      <Name>Art\PlayerTextures\EJ\Right\legrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Right\legrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.903912-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Right\legrightup.png</Source>
+      <Name>Art\PlayerTextures\EJ\Right\legrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Right\legrightup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9049144-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Right\neck.png</Source>
+      <Name>Art\PlayerTextures\EJ\Right\neck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Right\neck.xnb</Output>
+      <Time>2015-05-31T22:46:58.9059151-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Right\torsobot.png</Source>
+      <Name>Art\PlayerTextures\EJ\Right\torsobot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Right\torsobot.xnb</Output>
+      <Time>2015-05-31T22:46:58.9059151-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Right\torsomid.png</Source>
+      <Name>Art\PlayerTextures\EJ\Right\torsomid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Right\torsomid.xnb</Output>
+      <Time>2015-05-31T22:46:58.9069141-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\EJ\Right\torsotop.png</Source>
+      <Name>Art\PlayerTextures\EJ\Right\torsotop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\EJ\Right\torsotop.xnb</Output>
+      <Time>2015-05-31T22:46:58.9069141-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Left\armleftdown.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Left\armleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Left\armleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9779654-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Left\armleftup.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Left\armleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Left\armleftup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9779654-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Left\armrightdown.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Left\armrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Left\armrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9789657-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Left\armrightup.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Left\armrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Left\armrightup.xnb</Output>
+      <Time>2015-05-31T22:46:58.979966-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Left\footleft.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Left\footleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Left\footleft.xnb</Output>
+      <Time>2015-05-31T22:46:58.979966-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Left\footright.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Left\footright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Left\footright.xnb</Output>
+      <Time>2015-05-31T22:46:58.9809667-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Left\handleft.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Left\handleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Left\handleft.xnb</Output>
+      <Time>2015-05-31T22:46:58.9819674-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Left\handright.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Left\handright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Left\handright.xnb</Output>
+      <Time>2015-05-31T22:46:58.9829681-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Left\head.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Left\head</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Left\head.xnb</Output>
+      <Time>2015-05-31T22:46:58.9859702-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Left\legleftdown.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Left\legleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Left\legleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.986971-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Left\legleftup.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Left\legleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Left\legleftup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9879717-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Left\legrightdown.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Left\legrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Left\legrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9889732-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Left\legrightup.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Left\legrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Left\legrightup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9889732-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Left\neck.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Left\neck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Left\neck.xnb</Output>
+      <Time>2015-05-31T22:46:58.9899735-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Left\torsobot.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Left\torsobot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Left\torsobot.xnb</Output>
+      <Time>2015-05-31T22:46:58.9909742-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Left\torsomid.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Left\torsomid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Left\torsomid.xnb</Output>
+      <Time>2015-05-31T22:46:58.9909742-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Left\torsotop.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Left\torsotop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Left\torsotop.xnb</Output>
+      <Time>2015-05-31T22:46:58.9919745-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Right\armleftdown.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Right\armleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Right\armleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9929757-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Right\armleftup.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Right\armleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Right\armleftup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9939759-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Right\armrightdown.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Right\armrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Right\armrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9939759-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Right\armrightup.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Right\armrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Right\armrightup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9949766-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Right\footleft.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Right\footleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Right\footleft.xnb</Output>
+      <Time>2015-05-31T22:46:58.9949766-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Right\footright.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Right\footright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Right\footright.xnb</Output>
+      <Time>2015-05-31T22:46:58.9959774-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Right\handleft.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Right\handleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Right\handleft.xnb</Output>
+      <Time>2015-05-31T22:46:58.9969785-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Right\handright.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Right\handright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Right\handright.xnb</Output>
+      <Time>2015-05-31T22:46:58.9979788-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Right\head.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Right\head</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Right\head.xnb</Output>
+      <Time>2015-05-31T22:46:58.9979788-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Right\legleftdown.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Right\legleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Right\legleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9989799-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Right\legleftup.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Right\legleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Right\legleftup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9999806-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Right\legrightdown.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Right\legrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Right\legrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9999806-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Right\legrightup.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Right\legrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Right\legrightup.xnb</Output>
+      <Time>2015-05-31T22:46:59.0009809-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Right\neck.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Right\neck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Right\neck.xnb</Output>
+      <Time>2015-05-31T22:46:59.0019816-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Right\torsobot.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Right\torsobot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Right\torsobot.xnb</Output>
+      <Time>2015-05-31T22:46:59.0019816-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Right\torsomid.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Right\torsomid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Right\torsomid.xnb</Output>
+      <Time>2015-05-31T22:46:59.0029823-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Pacheco\Right\torsotop.png</Source>
+      <Name>Art\PlayerTextures\Pacheco\Right\torsotop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Pacheco\Right\torsotop.xnb</Output>
+      <Time>2015-05-31T22:46:59.003983-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Left\armleftdown.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Left\armleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Left\armleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:59.0290012-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Left\armleftup.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Left\armleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Left\armleftup.xnb</Output>
+      <Time>2015-05-31T22:46:59.0290012-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Left\armrightdown.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Left\armrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Left\armrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:59.0300015-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Left\armrightup.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Left\armrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Left\armrightup.xnb</Output>
+      <Time>2015-05-31T22:46:59.0310027-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Left\footleft.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Left\footleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Left\footleft.xnb</Output>
+      <Time>2015-05-31T22:46:59.0320038-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Left\footright.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Left\footright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Left\footright.xnb</Output>
+      <Time>2015-05-31T22:46:59.0320038-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Left\handleft.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Left\handleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Left\handleft.xnb</Output>
+      <Time>2015-05-31T22:46:59.0330041-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Left\handright.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Left\handright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Left\handright.xnb</Output>
+      <Time>2015-05-31T22:46:59.0340044-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Left\head.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Left\head</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Left\head.xnb</Output>
+      <Time>2015-05-31T22:46:59.0340044-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Left\legleftdown.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Left\legleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Left\legleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:59.0350051-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Left\legleftup.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Left\legleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Left\legleftup.xnb</Output>
+      <Time>2015-05-31T22:46:59.0360058-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Left\legrightdown.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Left\legrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Left\legrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:59.0360058-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Left\legrightup.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Left\legrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Left\legrightup.xnb</Output>
+      <Time>2015-05-31T22:46:59.0370065-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Left\neck.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Left\neck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Left\neck.xnb</Output>
+      <Time>2015-05-31T22:46:59.0380076-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Left\torsobot.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Left\torsobot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Left\torsobot.xnb</Output>
+      <Time>2015-05-31T22:46:59.0380076-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Left\torsomid.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Left\torsomid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Left\torsomid.xnb</Output>
+      <Time>2015-05-31T22:46:59.0390079-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Left\torsotop.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Left\torsotop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Left\torsotop.xnb</Output>
+      <Time>2015-05-31T22:46:59.0400091-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Right\armleftdown.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Right\armleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Right\armleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:59.0400091-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Right\armleftup.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Right\armleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Right\armleftup.xnb</Output>
+      <Time>2015-05-31T22:46:59.0410089-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Right\armrightdown.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Right\armrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Right\armrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:59.0420105-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Right\armrightup.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Right\armrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Right\armrightup.xnb</Output>
+      <Time>2015-05-31T22:46:59.0420105-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Right\footleft.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Right\footleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Right\footleft.xnb</Output>
+      <Time>2015-05-31T22:46:59.0430112-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Right\footright.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Right\footright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Right\footright.xnb</Output>
+      <Time>2015-05-31T22:46:59.0430112-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Right\handleft.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Right\handleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Right\handleft.xnb</Output>
+      <Time>2015-05-31T22:46:59.0440115-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Right\handright.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Right\handright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Right\handright.xnb</Output>
+      <Time>2015-05-31T22:46:59.0450126-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Right\head.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Right\head</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Right\head.xnb</Output>
+      <Time>2015-05-31T22:46:59.0450126-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Right\legleftdown.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Right\legleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Right\legleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:59.0470149-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Right\legleftup.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Right\legleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Right\legleftup.xnb</Output>
+      <Time>2015-05-31T22:46:59.0470149-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Right\legrightdown.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Right\legrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Right\legrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:59.0480143-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Right\legrightup.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Right\legrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Right\legrightup.xnb</Output>
+      <Time>2015-05-31T22:46:59.0490159-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Right\neck.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Right\neck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Right\neck.xnb</Output>
+      <Time>2015-05-31T22:46:59.0490159-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Right\torsobot.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Right\torsobot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Right\torsobot.xnb</Output>
+      <Time>2015-05-31T22:46:59.0500157-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Right\torsomid.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Right\torsomid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Right\torsomid.xnb</Output>
+      <Time>2015-05-31T22:46:59.0510169-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sophie\Right\torsotop.png</Source>
+      <Name>Art\PlayerTextures\Sophie\Right\torsotop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sophie\Right\torsotop.xnb</Output>
+      <Time>2015-05-31T22:46:59.0510169-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Left\armleftdown.png</Source>
+      <Name>Art\PlayerTextures\Benson\Left\armleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Left\armleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.8648842-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Left\armleftup.png</Source>
+      <Name>Art\PlayerTextures\Benson\Left\armleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Left\armleftup.xnb</Output>
+      <Time>2015-05-31T22:46:58.865885-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Left\armrightdown.png</Source>
+      <Name>Art\PlayerTextures\Benson\Left\armrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Left\armrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.865885-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Left\armrightup.png</Source>
+      <Name>Art\PlayerTextures\Benson\Left\armrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Left\armrightup.xnb</Output>
+      <Time>2015-05-31T22:46:58.8668857-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Left\footleft.png</Source>
+      <Name>Art\PlayerTextures\Benson\Left\footleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Left\footleft.xnb</Output>
+      <Time>2015-05-31T22:46:58.8668857-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Left\footright.png</Source>
+      <Name>Art\PlayerTextures\Benson\Left\footright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Left\footright.xnb</Output>
+      <Time>2015-05-31T22:46:58.8678864-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Left\handleft.png</Source>
+      <Name>Art\PlayerTextures\Benson\Left\handleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Left\handleft.xnb</Output>
+      <Time>2015-05-31T22:46:58.8678864-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Left\handright.png</Source>
+      <Name>Art\PlayerTextures\Benson\Left\handright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Left\handright.xnb</Output>
+      <Time>2015-05-31T22:46:58.8688875-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Left\head.png</Source>
+      <Name>Art\PlayerTextures\Benson\Left\head</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Left\head.xnb</Output>
+      <Time>2015-05-31T22:46:58.8698878-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Left\legleftdown.png</Source>
+      <Name>Art\PlayerTextures\Benson\Left\legleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Left\legleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.8698878-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Left\legleftup.png</Source>
+      <Name>Art\PlayerTextures\Benson\Left\legleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Left\legleftup.xnb</Output>
+      <Time>2015-05-31T22:46:58.8708885-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Left\legrightdown.png</Source>
+      <Name>Art\PlayerTextures\Benson\Left\legrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Left\legrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.8708885-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Left\legrightup.png</Source>
+      <Name>Art\PlayerTextures\Benson\Left\legrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Left\legrightup.xnb</Output>
+      <Time>2015-05-31T22:46:58.8718892-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Left\neck.png</Source>
+      <Name>Art\PlayerTextures\Benson\Left\neck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Left\neck.xnb</Output>
+      <Time>2015-05-31T22:46:58.8718892-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Left\torsobot.png</Source>
+      <Name>Art\PlayerTextures\Benson\Left\torsobot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Left\torsobot.xnb</Output>
+      <Time>2015-05-31T22:46:58.8728904-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Left\torsomid.png</Source>
+      <Name>Art\PlayerTextures\Benson\Left\torsomid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Left\torsomid.xnb</Output>
+      <Time>2015-05-31T22:46:58.8738924-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Left\torsotop.png</Source>
+      <Name>Art\PlayerTextures\Benson\Left\torsotop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Left\torsotop.xnb</Output>
+      <Time>2015-05-31T22:46:58.8738924-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Right\armleftdown.png</Source>
+      <Name>Art\PlayerTextures\Benson\Right\armleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Right\armleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.8748918-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Right\armleftup.png</Source>
+      <Name>Art\PlayerTextures\Benson\Right\armleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Right\armleftup.xnb</Output>
+      <Time>2015-05-31T22:46:58.8758921-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Right\armrightdown.png</Source>
+      <Name>Art\PlayerTextures\Benson\Right\armrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Right\armrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.8768932-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Right\armrightup.png</Source>
+      <Name>Art\PlayerTextures\Benson\Right\armrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Right\armrightup.xnb</Output>
+      <Time>2015-05-31T22:46:58.8778939-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Right\footleft.png</Source>
+      <Name>Art\PlayerTextures\Benson\Right\footleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Right\footleft.xnb</Output>
+      <Time>2015-05-31T22:46:58.8778939-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Right\footright.png</Source>
+      <Name>Art\PlayerTextures\Benson\Right\footright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Right\footright.xnb</Output>
+      <Time>2015-05-31T22:46:58.8788942-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Right\handleft.png</Source>
+      <Name>Art\PlayerTextures\Benson\Right\handleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Right\handleft.xnb</Output>
+      <Time>2015-05-31T22:46:58.8788942-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Right\handright.png</Source>
+      <Name>Art\PlayerTextures\Benson\Right\handright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Right\handright.xnb</Output>
+      <Time>2015-05-31T22:46:58.8798953-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Right\head.png</Source>
+      <Name>Art\PlayerTextures\Benson\Right\head</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Right\head.xnb</Output>
+      <Time>2015-05-31T22:46:58.880896-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Right\legleftdown.png</Source>
+      <Name>Art\PlayerTextures\Benson\Right\legleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Right\legleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.881898-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Right\legleftup.png</Source>
+      <Name>Art\PlayerTextures\Benson\Right\legleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Right\legleftup.xnb</Output>
+      <Time>2015-05-31T22:46:58.881898-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Right\legrightdown.png</Source>
+      <Name>Art\PlayerTextures\Benson\Right\legrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Right\legrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.882897-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Right\legrightup.png</Source>
+      <Name>Art\PlayerTextures\Benson\Right\legrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Right\legrightup.xnb</Output>
+      <Time>2015-05-31T22:46:58.882897-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Right\neck.png</Source>
+      <Name>Art\PlayerTextures\Benson\Right\neck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Right\neck.xnb</Output>
+      <Time>2015-05-31T22:46:58.8838973-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Right\torsobot.png</Source>
+      <Name>Art\PlayerTextures\Benson\Right\torsobot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Right\torsobot.xnb</Output>
+      <Time>2015-05-31T22:46:58.8848985-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Right\torsomid.png</Source>
+      <Name>Art\PlayerTextures\Benson\Right\torsomid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Right\torsomid.xnb</Output>
+      <Time>2015-05-31T22:46:58.8848985-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Benson\Right\torsotop.png</Source>
+      <Name>Art\PlayerTextures\Benson\Right\torsotop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Benson\Right\torsotop.xnb</Output>
+      <Time>2015-05-31T22:46:58.8858992-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Left\armleftdown.png</Source>
+      <Name>Art\PlayerTextures\Galles\Left\armleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Left\armleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9089172-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Left\armleftup.png</Source>
+      <Name>Art\PlayerTextures\Galles\Left\armleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Left\armleftup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9089172-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Left\armrightdown.png</Source>
+      <Name>Art\PlayerTextures\Galles\Left\armrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Left\armrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9099171-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Left\armrightup.png</Source>
+      <Name>Art\PlayerTextures\Galles\Left\armrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Left\armrightup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9099171-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Left\footleft.png</Source>
+      <Name>Art\PlayerTextures\Galles\Left\footleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Left\footleft.xnb</Output>
+      <Time>2015-05-31T22:46:58.9109178-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Left\footright.png</Source>
+      <Name>Art\PlayerTextures\Galles\Left\footright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Left\footright.xnb</Output>
+      <Time>2015-05-31T22:46:58.9119172-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Left\handleft.png</Source>
+      <Name>Art\PlayerTextures\Galles\Left\handleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Left\handleft.xnb</Output>
+      <Time>2015-05-31T22:46:58.9119172-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Left\handright.png</Source>
+      <Name>Art\PlayerTextures\Galles\Left\handright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Left\handright.xnb</Output>
+      <Time>2015-05-31T22:46:58.9129184-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Left\head.png</Source>
+      <Name>Art\PlayerTextures\Galles\Left\head</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Left\head.xnb</Output>
+      <Time>2015-05-31T22:46:58.9139195-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Left\legleftdown.png</Source>
+      <Name>Art\PlayerTextures\Galles\Left\legleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Left\legleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9149202-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Left\legleftup.png</Source>
+      <Name>Art\PlayerTextures\Galles\Left\legleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Left\legleftup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9149202-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Left\legrightdown.png</Source>
+      <Name>Art\PlayerTextures\Galles\Left\legrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Left\legrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9159205-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Left\legrightup.png</Source>
+      <Name>Art\PlayerTextures\Galles\Left\legrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Left\legrightup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9159205-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Left\neck.png</Source>
+      <Name>Art\PlayerTextures\Galles\Left\neck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Left\neck.xnb</Output>
+      <Time>2015-05-31T22:46:58.9169212-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Left\torsobot.png</Source>
+      <Name>Art\PlayerTextures\Galles\Left\torsobot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Left\torsobot.xnb</Output>
+      <Time>2015-05-31T22:46:58.9179219-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Left\torsomid.png</Source>
+      <Name>Art\PlayerTextures\Galles\Left\torsomid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Left\torsomid.xnb</Output>
+      <Time>2015-05-31T22:46:58.9189226-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Left\torsotop.png</Source>
+      <Name>Art\PlayerTextures\Galles\Left\torsotop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Left\torsotop.xnb</Output>
+      <Time>2015-05-31T22:46:58.9189226-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Right\armleftdown.png</Source>
+      <Name>Art\PlayerTextures\Galles\Right\armleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Right\armleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9199238-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Right\armleftup.png</Source>
+      <Name>Art\PlayerTextures\Galles\Right\armleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Right\armleftup.xnb</Output>
+      <Time>2015-05-31T22:46:58.920924-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Right\armrightdown.png</Source>
+      <Name>Art\PlayerTextures\Galles\Right\armrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Right\armrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.920924-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Right\armrightup.png</Source>
+      <Name>Art\PlayerTextures\Galles\Right\armrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Right\armrightup.xnb</Output>
+      <Time>2015-05-31T22:46:58.921926-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Right\footleft.png</Source>
+      <Name>Art\PlayerTextures\Galles\Right\footleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Right\footleft.xnb</Output>
+      <Time>2015-05-31T22:46:58.9229255-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Right\footright.png</Source>
+      <Name>Art\PlayerTextures\Galles\Right\footright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Right\footright.xnb</Output>
+      <Time>2015-05-31T22:46:58.9229255-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Right\handleft.png</Source>
+      <Name>Art\PlayerTextures\Galles\Right\handleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Right\handleft.xnb</Output>
+      <Time>2015-05-31T22:46:58.9239262-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Right\handright.png</Source>
+      <Name>Art\PlayerTextures\Galles\Right\handright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Right\handright.xnb</Output>
+      <Time>2015-05-31T22:46:58.9249269-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Right\head.png</Source>
+      <Name>Art\PlayerTextures\Galles\Right\head</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Right\head.xnb</Output>
+      <Time>2015-05-31T22:46:58.9249269-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Right\legleftdown.png</Source>
+      <Name>Art\PlayerTextures\Galles\Right\legleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Right\legleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9259276-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Right\legleftup.png</Source>
+      <Name>Art\PlayerTextures\Galles\Right\legleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Right\legleftup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9259276-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Right\legrightdown.png</Source>
+      <Name>Art\PlayerTextures\Galles\Right\legrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Right\legrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9269287-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Right\legrightup.png</Source>
+      <Name>Art\PlayerTextures\Galles\Right\legrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Right\legrightup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9269287-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Right\neck.png</Source>
+      <Name>Art\PlayerTextures\Galles\Right\neck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Right\neck.xnb</Output>
+      <Time>2015-05-31T22:46:58.927929-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Right\torsobot.png</Source>
+      <Name>Art\PlayerTextures\Galles\Right\torsobot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Right\torsobot.xnb</Output>
+      <Time>2015-05-31T22:46:58.9289302-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Right\torsomid.png</Source>
+      <Name>Art\PlayerTextures\Galles\Right\torsomid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Right\torsomid.xnb</Output>
+      <Time>2015-05-31T22:46:58.9289302-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Galles\Right\torsotop.png</Source>
+      <Name>Art\PlayerTextures\Galles\Right\torsotop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Galles\Right\torsotop.xnb</Output>
+      <Time>2015-05-31T22:46:58.9299313-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Left\armleftdown.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Left\armleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Left\armleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9319319-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Left\armleftup.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Left\armleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Left\armleftup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9319319-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Left\armrightdown.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Left\armrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Left\armrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9329326-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Left\armrightup.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Left\armrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Left\armrightup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9339346-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Left\footleft.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Left\footleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Left\footleft.xnb</Output>
+      <Time>2015-05-31T22:46:58.9339346-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Left\footright.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Left\footright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Left\footright.xnb</Output>
+      <Time>2015-05-31T22:46:58.934934-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Left\handleft.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Left\handleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Left\handleft.xnb</Output>
+      <Time>2015-05-31T22:46:58.9359347-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Left\handright.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Left\handright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Left\handright.xnb</Output>
+      <Time>2015-05-31T22:46:58.9369363-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Left\head.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Left\head</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Left\head.xnb</Output>
+      <Time>2015-05-31T22:46:58.9369363-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Left\legleftdown.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Left\legleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Left\legleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9379361-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Left\legleftup.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Left\legleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Left\legleftup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9389373-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Left\legrightdown.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Left\legrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Left\legrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9389373-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Left\legrightup.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Left\legrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Left\legrightup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9399376-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Left\neck.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Left\neck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Left\neck.xnb</Output>
+      <Time>2015-05-31T22:46:58.9399376-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Left\torsobot.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Left\torsobot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Left\torsobot.xnb</Output>
+      <Time>2015-05-31T22:46:58.9409378-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Left\torsomid.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Left\torsomid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Left\torsomid.xnb</Output>
+      <Time>2015-05-31T22:46:58.9419394-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Left\torsotop.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Left\torsotop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Left\torsotop.xnb</Output>
+      <Time>2015-05-31T22:46:58.9429397-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Right\armleftdown.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Right\armleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Right\armleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9439408-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Right\armleftup.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Right\armleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Right\armleftup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9439408-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Right\armrightdown.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Right\armrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Right\armrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9449411-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Right\armrightup.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Right\armrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Right\armrightup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9459418-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Right\footleft.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Right\footleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Right\footleft.xnb</Output>
+      <Time>2015-05-31T22:46:58.9459418-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Right\footright.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Right\footright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Right\footright.xnb</Output>
+      <Time>2015-05-31T22:46:58.946943-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Right\handleft.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Right\handleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Right\handleft.xnb</Output>
+      <Time>2015-05-31T22:46:58.9479432-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Right\handright.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Right\handright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Right\handright.xnb</Output>
+      <Time>2015-05-31T22:46:58.9489444-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Right\head.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Right\head</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Right\head.xnb</Output>
+      <Time>2015-05-31T22:46:58.9489444-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Right\legleftdown.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Right\legleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Right\legleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9499447-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Right\legleftup.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Right\legleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Right\legleftup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9499447-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Right\legrightdown.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Right\legrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Right\legrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9509462-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Right\legrightup.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Right\legrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Right\legrightup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9519461-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Right\neck.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Right\neck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Right\neck.xnb</Output>
+      <Time>2015-05-31T22:46:58.9519461-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Right\torsobot.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Right\torsobot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Right\torsobot.xnb</Output>
+      <Time>2015-05-31T22:46:58.9529468-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Right\torsomid.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Right\torsomid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Right\torsomid.xnb</Output>
+      <Time>2015-05-31T22:46:58.9539479-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Joshi\Right\torsotop.png</Source>
+      <Name>Art\PlayerTextures\Joshi\Right\torsotop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Joshi\Right\torsotop.xnb</Output>
+      <Time>2015-05-31T22:46:58.9539479-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Left\armleftdown.png</Source>
+      <Name>Art\PlayerTextures\Sami\Left\armleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Left\armleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:59.003983-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Left\armleftup.png</Source>
+      <Name>Art\PlayerTextures\Sami\Left\armleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Left\armleftup.xnb</Output>
+      <Time>2015-05-31T22:46:59.0049838-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Left\armrightdown.png</Source>
+      <Name>Art\PlayerTextures\Sami\Left\armrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Left\armrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:59.0059845-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Left\armrightup.png</Source>
+      <Name>Art\PlayerTextures\Sami\Left\armrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Left\armrightup.xnb</Output>
+      <Time>2015-05-31T22:46:59.0059845-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Left\footleft.png</Source>
+      <Name>Art\PlayerTextures\Sami\Left\footleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Left\footleft.xnb</Output>
+      <Time>2015-05-31T22:46:59.0069852-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Left\footright.png</Source>
+      <Name>Art\PlayerTextures\Sami\Left\footright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Left\footright.xnb</Output>
+      <Time>2015-05-31T22:46:59.0069852-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Left\handleft.png</Source>
+      <Name>Art\PlayerTextures\Sami\Left\handleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Left\handleft.xnb</Output>
+      <Time>2015-05-31T22:46:59.0079859-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Left\handright.png</Source>
+      <Name>Art\PlayerTextures\Sami\Left\handright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Left\handright.xnb</Output>
+      <Time>2015-05-31T22:46:59.0089866-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Left\head.png</Source>
+      <Name>Art\PlayerTextures\Sami\Left\head</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Left\head.xnb</Output>
+      <Time>2015-05-31T22:46:59.0089866-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Left\legleftdown.png</Source>
+      <Name>Art\PlayerTextures\Sami\Left\legleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Left\legleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:59.0099873-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Left\legleftup.png</Source>
+      <Name>Art\PlayerTextures\Sami\Left\legleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Left\legleftup.xnb</Output>
+      <Time>2015-05-31T22:46:59.0109884-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Left\legrightdown.png</Source>
+      <Name>Art\PlayerTextures\Sami\Left\legrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Left\legrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:59.0109884-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Left\legrightup.png</Source>
+      <Name>Art\PlayerTextures\Sami\Left\legrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Left\legrightup.xnb</Output>
+      <Time>2015-05-31T22:46:59.0119883-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Left\neck.png</Source>
+      <Name>Art\PlayerTextures\Sami\Left\neck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Left\neck.xnb</Output>
+      <Time>2015-05-31T22:46:59.0129894-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Left\torsobot.png</Source>
+      <Name>Art\PlayerTextures\Sami\Left\torsobot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Left\torsobot.xnb</Output>
+      <Time>2015-05-31T22:46:59.013991-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Left\torsomid.png</Source>
+      <Name>Art\PlayerTextures\Sami\Left\torsomid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Left\torsomid.xnb</Output>
+      <Time>2015-05-31T22:46:59.0159929-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Left\torsotop.png</Source>
+      <Name>Art\PlayerTextures\Sami\Left\torsotop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Left\torsotop.xnb</Output>
+      <Time>2015-05-31T22:46:59.0159929-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Right\armleftdown.png</Source>
+      <Name>Art\PlayerTextures\Sami\Right\armleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Right\armleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:59.0169927-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Right\armleftup.png</Source>
+      <Name>Art\PlayerTextures\Sami\Right\armleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Right\armleftup.xnb</Output>
+      <Time>2015-05-31T22:46:59.0179934-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Right\armrightdown.png</Source>
+      <Name>Art\PlayerTextures\Sami\Right\armrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Right\armrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:59.0179934-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Right\armrightup.png</Source>
+      <Name>Art\PlayerTextures\Sami\Right\armrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Right\armrightup.xnb</Output>
+      <Time>2015-05-31T22:46:59.0189941-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Right\footleft.png</Source>
+      <Name>Art\PlayerTextures\Sami\Right\footleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Right\footleft.xnb</Output>
+      <Time>2015-05-31T22:46:59.0199953-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Right\footright.png</Source>
+      <Name>Art\PlayerTextures\Sami\Right\footright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Right\footright.xnb</Output>
+      <Time>2015-05-31T22:46:59.0199953-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Right\handleft.png</Source>
+      <Name>Art\PlayerTextures\Sami\Right\handleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Right\handleft.xnb</Output>
+      <Time>2015-05-31T22:46:59.0209951-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Right\handright.png</Source>
+      <Name>Art\PlayerTextures\Sami\Right\handright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Right\handright.xnb</Output>
+      <Time>2015-05-31T22:46:59.0219967-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Right\head.png</Source>
+      <Name>Art\PlayerTextures\Sami\Right\head</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Right\head.xnb</Output>
+      <Time>2015-05-31T22:46:59.0219967-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Right\legleftdown.png</Source>
+      <Name>Art\PlayerTextures\Sami\Right\legleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Right\legleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:59.0229965-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Right\legleftup.png</Source>
+      <Name>Art\PlayerTextures\Sami\Right\legleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Right\legleftup.xnb</Output>
+      <Time>2015-05-31T22:46:59.0239973-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Right\legrightdown.png</Source>
+      <Name>Art\PlayerTextures\Sami\Right\legrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Right\legrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:59.0239973-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Right\legrightup.png</Source>
+      <Name>Art\PlayerTextures\Sami\Right\legrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Right\legrightup.xnb</Output>
+      <Time>2015-05-31T22:46:59.0249984-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Right\neck.png</Source>
+      <Name>Art\PlayerTextures\Sami\Right\neck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Right\neck.xnb</Output>
+      <Time>2015-05-31T22:46:59.0259987-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Right\torsobot.png</Source>
+      <Name>Art\PlayerTextures\Sami\Right\torsobot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Right\torsobot.xnb</Output>
+      <Time>2015-05-31T22:46:59.0259987-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Right\torsomid.png</Source>
+      <Name>Art\PlayerTextures\Sami\Right\torsomid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Right\torsomid.xnb</Output>
+      <Time>2015-05-31T22:46:59.0269994-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Sami\Right\torsotop.png</Source>
+      <Name>Art\PlayerTextures\Sami\Right\torsotop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Sami\Right\torsotop.xnb</Output>
+      <Time>2015-05-31T22:46:59.0280001-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Left\armleftdown.png</Source>
+      <Name>Art\PlayerTextures\Olga\Left\armleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Left\armleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9549478-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Left\armleftup.png</Source>
+      <Name>Art\PlayerTextures\Olga\Left\armleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Left\armleftup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9559494-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Left\armrightdown.png</Source>
+      <Name>Art\PlayerTextures\Olga\Left\armrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Left\armrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9559494-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Left\armrightup.png</Source>
+      <Name>Art\PlayerTextures\Olga\Left\armrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Left\armrightup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9569492-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Left\footleft.png</Source>
+      <Name>Art\PlayerTextures\Olga\Left\footleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Left\footleft.xnb</Output>
+      <Time>2015-05-31T22:46:58.9569492-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Left\footright.png</Source>
+      <Name>Art\PlayerTextures\Olga\Left\footright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Left\footright.xnb</Output>
+      <Time>2015-05-31T22:46:58.9579503-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Left\handleft.png</Source>
+      <Name>Art\PlayerTextures\Olga\Left\handleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Left\handleft.xnb</Output>
+      <Time>2015-05-31T22:46:58.9589519-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Left\handright.png</Source>
+      <Name>Art\PlayerTextures\Olga\Left\handright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Left\handright.xnb</Output>
+      <Time>2015-05-31T22:46:58.9589519-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Left\head.png</Source>
+      <Name>Art\PlayerTextures\Olga\Left\head</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Left\head.xnb</Output>
+      <Time>2015-05-31T22:46:58.9599522-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Left\legleftdown.png</Source>
+      <Name>Art\PlayerTextures\Olga\Left\legleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Left\legleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9609521-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Left\legleftup.png</Source>
+      <Name>Art\PlayerTextures\Olga\Left\legleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Left\legleftup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9609521-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Left\legrightdown.png</Source>
+      <Name>Art\PlayerTextures\Olga\Left\legrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Left\legrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9619532-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Left\legrightup.png</Source>
+      <Name>Art\PlayerTextures\Olga\Left\legrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Left\legrightup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9619532-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Left\neck.png</Source>
+      <Name>Art\PlayerTextures\Olga\Left\neck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Left\neck.xnb</Output>
+      <Time>2015-05-31T22:46:58.9629539-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Left\torsobot.png</Source>
+      <Name>Art\PlayerTextures\Olga\Left\torsobot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Left\torsobot.xnb</Output>
+      <Time>2015-05-31T22:46:58.963955-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Left\torsomid.png</Source>
+      <Name>Art\PlayerTextures\Olga\Left\torsomid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Left\torsomid.xnb</Output>
+      <Time>2015-05-31T22:46:58.9649558-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Left\torsotop.png</Source>
+      <Name>Art\PlayerTextures\Olga\Left\torsotop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Left\torsotop.xnb</Output>
+      <Time>2015-05-31T22:46:58.9649558-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Right\armleftdown.png</Source>
+      <Name>Art\PlayerTextures\Olga\Right\armleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Right\armleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.965956-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Right\armleftup.png</Source>
+      <Name>Art\PlayerTextures\Olga\Right\armleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Right\armleftup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9669567-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Right\armrightdown.png</Source>
+      <Name>Art\PlayerTextures\Olga\Right\armrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Right\armrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9679575-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Right\armrightup.png</Source>
+      <Name>Art\PlayerTextures\Olga\Right\armrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Right\armrightup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9679575-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Right\footleft.png</Source>
+      <Name>Art\PlayerTextures\Olga\Right\footleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Right\footleft.xnb</Output>
+      <Time>2015-05-31T22:46:58.9689582-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Right\footright.png</Source>
+      <Name>Art\PlayerTextures\Olga\Right\footright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Right\footright.xnb</Output>
+      <Time>2015-05-31T22:46:58.9699602-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Right\handleft.png</Source>
+      <Name>Art\PlayerTextures\Olga\Right\handleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Right\handleft.xnb</Output>
+      <Time>2015-05-31T22:46:58.9699602-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Right\handright.png</Source>
+      <Name>Art\PlayerTextures\Olga\Right\handright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Right\handright.xnb</Output>
+      <Time>2015-05-31T22:46:58.97096-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Right\head.png</Source>
+      <Name>Art\PlayerTextures\Olga\Right\head</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Right\head.xnb</Output>
+      <Time>2015-05-31T22:46:58.9719603-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Right\legleftdown.png</Source>
+      <Name>Art\PlayerTextures\Olga\Right\legleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Right\legleftdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.9719603-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Right\legleftup.png</Source>
+      <Name>Art\PlayerTextures\Olga\Right\legleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Right\legleftup.xnb</Output>
+      <Time>2015-05-31T22:46:58.972961-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Right\legrightdown.png</Source>
+      <Name>Art\PlayerTextures\Olga\Right\legrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Right\legrightdown.xnb</Output>
+      <Time>2015-05-31T22:46:58.972961-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Right\legrightup.png</Source>
+      <Name>Art\PlayerTextures\Olga\Right\legrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Right\legrightup.xnb</Output>
+      <Time>2015-05-31T22:46:58.9739621-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Right\neck.png</Source>
+      <Name>Art\PlayerTextures\Olga\Right\neck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Right\neck.xnb</Output>
+      <Time>2015-05-31T22:46:58.9749624-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Right\torsobot.png</Source>
+      <Name>Art\PlayerTextures\Olga\Right\torsobot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Right\torsobot.xnb</Output>
+      <Time>2015-05-31T22:46:58.9749624-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Right\torsomid.png</Source>
+      <Name>Art\PlayerTextures\Olga\Right\torsomid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Right\torsomid.xnb</Output>
+      <Time>2015-05-31T22:46:58.975964-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Olga\Right\torsotop.png</Source>
+      <Name>Art\PlayerTextures\Olga\Right\torsotop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerTextures\Olga\Right\torsotop.xnb</Output>
+      <Time>2015-05-31T22:46:58.975964-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Arenas\Backgrounds\FrozenLake.png</Source>
+      <Name>Arenas\Backgrounds\FrozenLake</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Arenas\Backgrounds\FrozenLake.xnb</Output>
+      <Time>2015-05-31T22:46:58.6365811-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Arenas\Backgrounds\ShrekSwamp.png</Source>
+      <Name>Arenas\Backgrounds\ShrekSwamp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Arenas\Backgrounds\ShrekSwamp.xnb</Output>
+      <Time>2015-05-31T22:46:58.6445855-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Arenas\Backgrounds\SpaceShip.png</Source>
+      <Name>Arenas\Backgrounds\SpaceShip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Arenas\Backgrounds\SpaceShip.xnb</Output>
+      <Time>2015-05-31T22:46:58.649589-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\BlockTextures\invisibleplatform.png</Source>
+      <Name>Art\BlockTextures\invisibleplatform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\BlockTextures\invisibleplatform.xnb</Output>
+      <Time>2015-05-31T22:46:58.6605973-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\BlockTextures\seagull.png</Source>
+      <Name>Art\BlockTextures\seagull</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\BlockTextures\seagull.xnb</Output>
+      <Time>2015-05-31T22:46:58.661598-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\Particles\blood.png</Source>
+      <Name>Art\Particles\blood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\Particles\blood.xnb</Output>
+      <Time>2015-05-31T22:46:58.853734-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerIcons\alark.png</Source>
+      <Name>Art\PlayerIcons\alark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerIcons\alark.xnb</Output>
+      <Time>2015-05-31T22:46:58.8557354-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerIcons\benson.png</Source>
+      <Name>Art\PlayerIcons\benson</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerIcons\benson.xnb</Output>
+      <Time>2015-05-31T22:46:58.856737-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerIcons\ej.png</Source>
+      <Name>Art\PlayerIcons\ej</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerIcons\ej.xnb</Output>
+      <Time>2015-05-31T22:46:58.8577373-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerIcons\galles.png</Source>
+      <Name>Art\PlayerIcons\galles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerIcons\galles.xnb</Output>
+      <Time>2015-05-31T22:46:58.8577373-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerIcons\olga.png</Source>
+      <Name>Art\PlayerIcons\olga</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerIcons\olga.xnb</Output>
+      <Time>2015-05-31T22:46:58.8587376-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerIcons\peter.png</Source>
+      <Name>Art\PlayerIcons\peter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerIcons\peter.xnb</Output>
+      <Time>2015-05-31T22:46:58.8597383-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerIcons\rollins.png</Source>
+      <Name>Art\PlayerIcons\rollins</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerIcons\rollins.xnb</Output>
+      <Time>2015-05-31T22:46:58.8608797-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerIcons\sophie.jpg</Source>
+      <Name>Art\PlayerIcons\sophie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\PlayerIcons\sophie.xnb</Output>
+      <Time>2015-05-31T22:46:58.863884-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\battleorgylogo.png</Source>
+      <Name>Art\battleorgylogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\battleorgylogo.xnb</Output>
+      <Time>2015-05-31T22:46:59.07003-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\Particles\metaparticle.png</Source>
+      <Name>Art\Particles\metaparticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Art\Particles\metaparticle.xnb</Output>
+      <Time>2015-05-31T22:46:58.8547347-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\SwordHitSelect.wav</Source>
+      <Name>Sounds\SwordHitSelect</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Sounds\SwordHitSelect.xnb</Output>
+      <Time>2015-05-31T22:46:59.1561082-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Videos\Wildlife.wmv</Source>
+      <Name>Videos\Wildlife</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Videos\Wildlife.xnb</Output>
+      <Extra>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Videos\Wildlife.wmv</Extra>
+      <Time>2015-05-31T22:46:59.5463683-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Videos\Space.wmv</Source>
+      <Name>Videos\Space</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Videos\Space.xnb</Output>
+      <Extra>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Videos\Space.wmv</Extra>
+      <Time>2015-05-31T22:46:59.2351481-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Videos\fire.wmv</Source>
+      <Name>Videos\fire</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Videos\fire.xnb</Output>
+      <Extra>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Videos\fire.wmv</Extra>
+      <Time>2015-05-31T22:47:00.8332832-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Battle Without Honor or Humanity.mp3</Source>
+      <Name>Music\Battle Without Honor or Humanity</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Music\Battle Without Honor or Humanity.xnb</Output>
+      <Extra>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\Music\Battle Without Honor or Humanity.wma</Extra>
+      <Time>2015-05-31T22:46:59.1290732-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{7B6E8E06-B672-42E4-890F-357536C4FE89}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージーContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-11-12T10:08:09.1800582-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,7 @@
+C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\MyoSharp\bin\Release\x64\myo.dll
+C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\MyoSharp\bin\Release\x86\myo.dll
+C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\MyoSharp\bin\Release\MyoSharp.dll
+C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\MyoSharp\bin\Release\MyoSharp.pdb
+C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\MyoSharp\obj\Release\MyoSharp.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\MyoSharp\obj\Release\MyoSharp.dll
+C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\MyoSharp\obj\Release\MyoSharp.pdb

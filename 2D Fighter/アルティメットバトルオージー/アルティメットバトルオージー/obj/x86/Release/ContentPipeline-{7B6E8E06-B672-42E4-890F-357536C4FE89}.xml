@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Release\Content\Font.xnb</Output>
+      <Time>2014-11-30T19:21:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>PoserFont.spritefont</Source>
+      <Name>PoserFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Release\Content\PoserFont.xnb</Output>
+      <Time>2014-11-30T19:21:42-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\Skeletonforgame.png</Source>
+      <Name>Art\PlayerTextures\Test\Skeletonforgame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Release\Content\Art\PlayerTextures\Test\Skeletonforgame.xnb</Output>
+      <Time>2014-11-30T19:25:09-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\skeletonhead.png</Source>
+      <Name>Art\PlayerTextures\Test\skeletonhead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Release\Content\Art\PlayerTextures\Test\skeletonhead.xnb</Output>
+      <Time>2014-11-30T19:25:07-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\skeletonlowarmleft.png</Source>
+      <Name>Art\PlayerTextures\Test\skeletonlowarmleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Release\Content\Art\PlayerTextures\Test\skeletonlowarmleft.xnb</Output>
+      <Time>2014-11-30T19:25:05-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\skeletonlowarmright.png</Source>
+      <Name>Art\PlayerTextures\Test\skeletonlowarmright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Release\Content\Art\PlayerTextures\Test\skeletonlowarmright.xnb</Output>
+      <Time>2014-11-30T19:25:02-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\skeletonlowlegleft.png</Source>
+      <Name>Art\PlayerTextures\Test\skeletonlowlegleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Release\Content\Art\PlayerTextures\Test\skeletonlowlegleft.xnb</Output>
+      <Time>2014-11-30T19:25:00-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\skeletonlowlegright.png</Source>
+      <Name>Art\PlayerTextures\Test\skeletonlowlegright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Release\Content\Art\PlayerTextures\Test\skeletonlowlegright.xnb</Output>
+      <Time>2014-11-30T19:24:58-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\skeletontorso.png</Source>
+      <Name>Art\PlayerTextures\Test\skeletontorso</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Release\Content\Art\PlayerTextures\Test\skeletontorso.xnb</Output>
+      <Time>2014-11-30T19:24:56-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\skeletonuparmleft.png</Source>
+      <Name>Art\PlayerTextures\Test\skeletonuparmleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Release\Content\Art\PlayerTextures\Test\skeletonuparmleft.xnb</Output>
+      <Time>2014-11-30T19:24:54-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\skeletonuparmright.png</Source>
+      <Name>Art\PlayerTextures\Test\skeletonuparmright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Release\Content\Art\PlayerTextures\Test\skeletonuparmright.xnb</Output>
+      <Time>2014-11-30T19:24:52-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\skeletonuplegleft.png</Source>
+      <Name>Art\PlayerTextures\Test\skeletonuplegleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Release\Content\Art\PlayerTextures\Test\skeletonuplegleft.xnb</Output>
+      <Time>2014-11-30T19:24:50-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\skeletonuplegright.png</Source>
+      <Name>Art\PlayerTextures\Test\skeletonuplegright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Release\Content\Art\PlayerTextures\Test\skeletonuplegright.xnb</Output>
+      <Time>2014-11-30T19:24:48-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{7B6E8E06-B672-42E4-890F-357536C4FE89}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージーContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-10-31T14:55:08.2352954-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

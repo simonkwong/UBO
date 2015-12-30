@@ -1,0 +1,14 @@
+C:\Users\Simon\Downloads\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\MyoSharp\bin\Debug\x64\myo.dll
+C:\Users\Simon\Downloads\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\MyoSharp\bin\Debug\x86\myo.dll
+C:\Users\Simon\Downloads\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\MyoSharp\bin\Debug\MyoSharp.dll
+C:\Users\Simon\Downloads\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\MyoSharp\bin\Debug\MyoSharp.pdb
+C:\Users\Simon\Downloads\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\MyoSharp\obj\Debug\MyoSharp.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Downloads\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\MyoSharp\obj\Debug\MyoSharp.dll
+C:\Users\Simon\Downloads\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\MyoSharp\obj\Debug\MyoSharp.pdb
+C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\MyoSharp\bin\Debug\x64\myo.dll
+C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\MyoSharp\bin\Debug\x86\myo.dll
+C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\MyoSharp\bin\Debug\MyoSharp.dll
+C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\MyoSharp\bin\Debug\MyoSharp.pdb
+C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\MyoSharp\obj\Debug\MyoSharp.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\MyoSharp\obj\Debug\MyoSharp.dll
+C:\Users\Simon\Downloads\PROJECTS\2D Fighter\アルティメットバトルオージー\MyoSharp\obj\Debug\MyoSharp.pdb

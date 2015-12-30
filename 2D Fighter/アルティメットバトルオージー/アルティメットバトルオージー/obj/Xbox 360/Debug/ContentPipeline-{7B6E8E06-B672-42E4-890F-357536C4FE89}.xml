@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\Xbox 360\Debug\Content\Font.xnb</Output>
+      <Time>2014-11-30T19:21:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>PoserFont.spritefont</Source>
+      <Name>PoserFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\Xbox 360\Debug\Content\PoserFont.xnb</Output>
+      <Time>2014-11-30T19:21:42-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\armleftdown.png</Source>
+      <Name>Art\PlayerTextures\Test\armleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\Xbox 360\Debug\Content\Art\PlayerTextures\Test\armleftdown.xnb</Output>
+      <Time>2014-12-23T21:38:13.872673-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\armleftup.png</Source>
+      <Name>Art\PlayerTextures\Test\armleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\Xbox 360\Debug\Content\Art\PlayerTextures\Test\armleftup.xnb</Output>
+      <Time>2014-12-23T21:38:13.8796777-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\armrightdown.png</Source>
+      <Name>Art\PlayerTextures\Test\armrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\Xbox 360\Debug\Content\Art\PlayerTextures\Test\armrightdown.xnb</Output>
+      <Time>2014-12-23T21:38:13.8856834-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\armrightup.png</Source>
+      <Name>Art\PlayerTextures\Test\armrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\Xbox 360\Debug\Content\Art\PlayerTextures\Test\armrightup.xnb</Output>
+      <Time>2014-12-23T21:38:13.8916869-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\footleft.png</Source>
+      <Name>Art\PlayerTextures\Test\footleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\Xbox 360\Debug\Content\Art\PlayerTextures\Test\footleft.xnb</Output>
+      <Time>2014-12-23T21:38:13.9026936-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\footright.png</Source>
+      <Name>Art\PlayerTextures\Test\footright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\Xbox 360\Debug\Content\Art\PlayerTextures\Test\footright.xnb</Output>
+      <Time>2014-12-23T21:38:13.910699-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\handleft.png</Source>
+      <Name>Art\PlayerTextures\Test\handleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\Xbox 360\Debug\Content\Art\PlayerTextures\Test\handleft.xnb</Output>
+      <Time>2014-12-23T21:38:13.9157023-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\handright.png</Source>
+      <Name>Art\PlayerTextures\Test\handright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\Xbox 360\Debug\Content\Art\PlayerTextures\Test\handright.xnb</Output>
+      <Time>2014-12-23T21:38:13.9257084-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\head.png</Source>
+      <Name>Art\PlayerTextures\Test\head</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\Xbox 360\Debug\Content\Art\PlayerTextures\Test\head.xnb</Output>
+      <Time>2014-12-23T21:38:13.9307123-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\legleftdown.png</Source>
+      <Name>Art\PlayerTextures\Test\legleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\Xbox 360\Debug\Content\Art\PlayerTextures\Test\legleftdown.xnb</Output>
+      <Time>2014-12-23T21:38:13.9357151-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\legleftup.png</Source>
+      <Name>Art\PlayerTextures\Test\legleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\Xbox 360\Debug\Content\Art\PlayerTextures\Test\legleftup.xnb</Output>
+      <Time>2014-12-23T21:38:13.9437221-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\legrightdown.png</Source>
+      <Name>Art\PlayerTextures\Test\legrightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\Xbox 360\Debug\Content\Art\PlayerTextures\Test\legrightdown.xnb</Output>
+      <Time>2014-12-23T21:38:13.9517263-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\legrightup.png</Source>
+      <Name>Art\PlayerTextures\Test\legrightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\Xbox 360\Debug\Content\Art\PlayerTextures\Test\legrightup.xnb</Output>
+      <Time>2014-12-23T21:38:13.9667364-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\neck.png</Source>
+      <Name>Art\PlayerTextures\Test\neck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\Xbox 360\Debug\Content\Art\PlayerTextures\Test\neck.xnb</Output>
+      <Time>2014-12-23T21:38:13.9757424-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\torsobot.png</Source>
+      <Name>Art\PlayerTextures\Test\torsobot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\Xbox 360\Debug\Content\Art\PlayerTextures\Test\torsobot.xnb</Output>
+      <Time>2014-12-23T21:38:13.9807457-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\torsomid.png</Source>
+      <Name>Art\PlayerTextures\Test\torsomid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\Xbox 360\Debug\Content\Art\PlayerTextures\Test\torsomid.xnb</Output>
+      <Time>2014-12-23T21:38:13.985749-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\PlayerTextures\Test\torsotop.png</Source>
+      <Name>Art\PlayerTextures\Test\torsotop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\Xbox 360\Debug\Content\Art\PlayerTextures\Test\torsotop.xnb</Output>
+      <Time>2014-12-23T21:38:13.9957551-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\Image1.bmp</Source>
+      <Name>Art\Image1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\Xbox 360\Debug\Content\Art\Image1.xnb</Output>
+      <Time>2014-12-29T19:44:16.2694984-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\yellowpixel.png</Source>
+      <Name>Art\yellowpixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\Xbox 360\Debug\Content\Art\yellowpixel.xnb</Output>
+      <Time>2014-12-29T19:46:02.0719016-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\BlockTextures\explosion.png</Source>
+      <Name>Art\BlockTextures\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\Xbox 360\Debug\Content\Art\BlockTextures\explosion.xnb</Output>
+      <Time>2015-01-13T23:31:17.965251-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\BlockTextures\brickplatform.png</Source>
+      <Name>Art\BlockTextures\brickplatform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\Xbox 360\Debug\Content\Art\BlockTextures\brickplatform.xnb</Output>
+      <Time>2015-01-13T23:49:49.259531-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{7B6E8E06-B672-42E4-890F-357536C4FE89}</ContentProjectGUID>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージーContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-10-31T14:55:08.2352954-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

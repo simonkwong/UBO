@@ -1,0 +1,17 @@
+Content\Font.xnb
+Content\PoserFont.xnb
+Content\Art\PlayerTextures\Test\Skeletonforgame.xnb
+Content\Art\PlayerTextures\Test\skeletonhead.xnb
+Content\Art\PlayerTextures\Test\skeletonlowarmleft.xnb
+Content\Art\PlayerTextures\Test\skeletonlowarmright.xnb
+Content\Art\PlayerTextures\Test\skeletonlowlegleft.xnb
+Content\Art\PlayerTextures\Test\skeletonlowlegright.xnb
+Content\Art\PlayerTextures\Test\skeletontorso.xnb
+Content\Art\PlayerTextures\Test\skeletonuparmleft.xnb
+Content\Art\PlayerTextures\Test\skeletonuparmright.xnb
+Content\Art\PlayerTextures\Test\skeletonuplegleft.xnb
+Content\Art\PlayerTextures\Test\skeletonuplegright.xnb
+Content\playerData.xml
+Content\animationData.xml
+x64\myo.dll
+x86\myo.dll

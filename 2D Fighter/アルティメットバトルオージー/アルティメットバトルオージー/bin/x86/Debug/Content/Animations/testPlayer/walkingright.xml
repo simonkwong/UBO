@@ -1,0 +1,444 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animation name="walkingright">
+  <KeyFrames>
+    <KeyFrame number="0">
+      <AnimationNodes>
+        <AnimationNode name="torsomid">
+          <Texture>Art/PlayerTextures/Test/torsomid</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>615</x>
+            <y>333</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="torsotop">
+          <Texture>Art/PlayerTextures/Test/torsotop</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>3</x>
+            <y>-7</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="torsobot">
+          <Texture>Art/PlayerTextures/Test/torsobot</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>4</x>
+            <y>10</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="neck">
+          <Texture>Art/PlayerTextures/Test/neck</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>-11</x>
+            <y>-43</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="head">
+          <Texture>Art/PlayerTextures/Test/head</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>0</x>
+            <y>-5</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="armleftup">
+          <Texture>Art/PlayerTextures/Test/armleftup</Texture>
+          <LocalOrientation>-0.4712388</LocalOrientation>
+          <PositionInParent>
+            <x>6</x>
+            <y>-24</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="armleftdown">
+          <Texture>Art/PlayerTextures/Test/armleftdown</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>-2</x>
+            <y>32</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="handleft">
+          <Texture>Art/PlayerTextures/Test/handleft</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>6</x>
+            <y>30</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="legleftup">
+          <Texture>Art/PlayerTextures/Test/legleftup</Texture>
+          <LocalOrientation>-0.3490659</LocalOrientation>
+          <PositionInParent>
+            <x>4</x>
+            <y>31</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="legleftdown">
+          <Texture>Art/PlayerTextures/Test/legleftdown</Texture>
+          <LocalOrientation>0.0872665</LocalOrientation>
+          <PositionInParent>
+            <x>0</x>
+            <y>83</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="footleft">
+          <Texture>Art/PlayerTextures/Test/footleft</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>-6</x>
+            <y>54</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="legrightup">
+          <Texture>Art/PlayerTextures/Test/legrightup</Texture>
+          <LocalOrientation>0.1570796</LocalOrientation>
+          <PositionInParent>
+            <x>-14</x>
+            <y>35</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="legrightdown">
+          <Texture>Art/PlayerTextures/Test/legrightdown</Texture>
+          <LocalOrientation>0.3839724</LocalOrientation>
+          <PositionInParent>
+            <x>-8</x>
+            <y>78</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="footright">
+          <Texture>Art/PlayerTextures/Test/footright</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>-4</x>
+            <y>64</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="armrightup">
+          <Texture>Art/PlayerTextures/Test/armrightup</Texture>
+          <LocalOrientation>0.296706</LocalOrientation>
+          <PositionInParent>
+            <x>-25</x>
+            <y>-20</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="armrightdown">
+          <Texture>Art/PlayerTextures/Test/armrightdown</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>-6</x>
+            <y>44</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="handright">
+          <Texture>Art/PlayerTextures/Test/handright</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>6</x>
+            <y>44</y>
+          </PositionInParent>
+        </AnimationNode>
+      </AnimationNodes>
+    </KeyFrame>
+    <KeyFrame number="10">
+      <AnimationNodes>
+        <AnimationNode name="torsomid">
+          <Texture>Art/PlayerTextures/Test/torsomid</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>615</x>
+            <y>333</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="torsotop">
+          <Texture>Art/PlayerTextures/Test/torsotop</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>3</x>
+            <y>-7</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="torsobot">
+          <Texture>Art/PlayerTextures/Test/torsobot</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>4</x>
+            <y>10</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="neck">
+          <Texture>Art/PlayerTextures/Test/neck</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>-11</x>
+            <y>-43</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="head">
+          <Texture>Art/PlayerTextures/Test/head</Texture>
+          <LocalOrientation>-0.122173</LocalOrientation>
+          <PositionInParent>
+            <x>0</x>
+            <y>-5</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="armleftup">
+          <Texture>Art/PlayerTextures/Test/armleftup</Texture>
+          <LocalOrientation>0.3839724</LocalOrientation>
+          <PositionInParent>
+            <x>6</x>
+            <y>-24</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="armleftdown">
+          <Texture>Art/PlayerTextures/Test/armleftdown</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>-2</x>
+            <y>32</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="handleft">
+          <Texture>Art/PlayerTextures/Test/handleft</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>6</x>
+            <y>30</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="legleftup">
+          <Texture>Art/PlayerTextures/Test/legleftup</Texture>
+          <LocalOrientation>0.2617995</LocalOrientation>
+          <PositionInParent>
+            <x>4</x>
+            <y>31</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="legleftdown">
+          <Texture>Art/PlayerTextures/Test/legleftdown</Texture>
+          <LocalOrientation>0.4363323</LocalOrientation>
+          <PositionInParent>
+            <x>0</x>
+            <y>83</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="footleft">
+          <Texture>Art/PlayerTextures/Test/footleft</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>-6</x>
+            <y>54</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="legrightup">
+          <Texture>Art/PlayerTextures/Test/legrightup</Texture>
+          <LocalOrientation>-0.541052</LocalOrientation>
+          <PositionInParent>
+            <x>-14</x>
+            <y>35</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="legrightdown">
+          <Texture>Art/PlayerTextures/Test/legrightdown</Texture>
+          <LocalOrientation>0.2617994</LocalOrientation>
+          <PositionInParent>
+            <x>-8</x>
+            <y>78</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="footright">
+          <Texture>Art/PlayerTextures/Test/footright</Texture>
+          <LocalOrientation>-0.2617994</LocalOrientation>
+          <PositionInParent>
+            <x>-4</x>
+            <y>64</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="armrightup">
+          <Texture>Art/PlayerTextures/Test/armrightup</Texture>
+          <LocalOrientation>-0.3316126</LocalOrientation>
+          <PositionInParent>
+            <x>-25</x>
+            <y>-20</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="armrightdown">
+          <Texture>Art/PlayerTextures/Test/armrightdown</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>-6</x>
+            <y>44</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="handright">
+          <Texture>Art/PlayerTextures/Test/handright</Texture>
+          <LocalOrientation>-0.06981318</LocalOrientation>
+          <PositionInParent>
+            <x>6</x>
+            <y>44</y>
+          </PositionInParent>
+        </AnimationNode>
+      </AnimationNodes>
+    </KeyFrame>
+    <KeyFrame number="20">
+      <AnimationNodes>
+        <AnimationNode name="torsomid">
+          <Texture>Art/PlayerTextures/Test/torsomid</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>615</x>
+            <y>333</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="torsotop">
+          <Texture>Art/PlayerTextures/Test/torsotop</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>3</x>
+            <y>-7</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="torsobot">
+          <Texture>Art/PlayerTextures/Test/torsobot</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>4</x>
+            <y>10</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="neck">
+          <Texture>Art/PlayerTextures/Test/neck</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>-11</x>
+            <y>-43</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="head">
+          <Texture>Art/PlayerTextures/Test/head</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>0</x>
+            <y>-5</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="armleftup">
+          <Texture>Art/PlayerTextures/Test/armleftup</Texture>
+          <LocalOrientation>-0.3665191</LocalOrientation>
+          <PositionInParent>
+            <x>6</x>
+            <y>-24</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="armleftdown">
+          <Texture>Art/PlayerTextures/Test/armleftdown</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>-2</x>
+            <y>32</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="handleft">
+          <Texture>Art/PlayerTextures/Test/handleft</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>6</x>
+            <y>30</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="legleftup">
+          <Texture>Art/PlayerTextures/Test/legleftup</Texture>
+          <LocalOrientation>-0.296706</LocalOrientation>
+          <PositionInParent>
+            <x>4</x>
+            <y>31</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="legleftdown">
+          <Texture>Art/PlayerTextures/Test/legleftdown</Texture>
+          <LocalOrientation>0.0872665</LocalOrientation>
+          <PositionInParent>
+            <x>0</x>
+            <y>83</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="footleft">
+          <Texture>Art/PlayerTextures/Test/footleft</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>-6</x>
+            <y>54</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="legrightup">
+          <Texture>Art/PlayerTextures/Test/legrightup</Texture>
+          <LocalOrientation>0.1745329</LocalOrientation>
+          <PositionInParent>
+            <x>-14</x>
+            <y>35</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="legrightdown">
+          <Texture>Art/PlayerTextures/Test/legrightdown</Texture>
+          <LocalOrientation>0.3316125</LocalOrientation>
+          <PositionInParent>
+            <x>-8</x>
+            <y>78</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="footright">
+          <Texture>Art/PlayerTextures/Test/footright</Texture>
+          <LocalOrientation>-0.4363322</LocalOrientation>
+          <PositionInParent>
+            <x>-4</x>
+            <y>64</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="armrightup">
+          <Texture>Art/PlayerTextures/Test/armrightup</Texture>
+          <LocalOrientation>0.296706</LocalOrientation>
+          <PositionInParent>
+            <x>-25</x>
+            <y>-20</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="armrightdown">
+          <Texture>Art/PlayerTextures/Test/armrightdown</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>-6</x>
+            <y>44</y>
+          </PositionInParent>
+        </AnimationNode>
+        <AnimationNode name="handright">
+          <Texture>Art/PlayerTextures/Test/handright</Texture>
+          <LocalOrientation>0</LocalOrientation>
+          <PositionInParent>
+            <x>6</x>
+            <y>44</y>
+          </PositionInParent>
+        </AnimationNode>
+      </AnimationNodes>
+    </KeyFrame>
+  </KeyFrames>
+  <NodeStates>
+    <node name="torsomid">passive</node>
+    <node name="torsotop">passive</node>
+    <node name="torsobot">passive</node>
+    <node name="neck">passive</node>
+    <node name="head">passive</node>
+    <node name="armleftup">passive</node>
+    <node name="armleftdown">passive</node>
+    <node name="handleft">passive</node>
+    <node name="legleftup">passive</node>
+    <node name="legleftdown">passive</node>
+    <node name="footleft">passive</node>
+    <node name="legrightup">passive</node>
+    <node name="legrightdown">passive</node>
+    <node name="footright">passive</node>
+    <node name="armrightup">passive</node>
+    <node name="armrightdown">passive</node>
+    <node name="handright">passive</node>
+  </NodeStates>
+</Animation>

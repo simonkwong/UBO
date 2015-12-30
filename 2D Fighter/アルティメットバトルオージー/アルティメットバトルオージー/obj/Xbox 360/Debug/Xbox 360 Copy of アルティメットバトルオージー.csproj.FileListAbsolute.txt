@@ -1,0 +1,2 @@
+C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\obj\Xbox 360\Debug\Xbox 360 Copy of アルティメットバトルオージー.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\New Folder\USFCACSMORTALKOMBAT\USFCACSMORTALKOMBAT\アルティメットバトルオージー\アルティメットバトルオージー\アルティメットバトルオージー\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

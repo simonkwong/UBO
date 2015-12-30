@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<playerData>
+  <players type="playerlist">  
+    <player>
+  
+      <node> 
+        <name>torso</name>
+        <pspace_pos><x>615</x><y>333</y></pspace_pos>
+        <orientation>0</orientation>
+        <parent></parent>
+        <isLeaf>F</isLeaf>
+        <texture>Art/PlayerTextures/Test/skeletontorso</texture>
+        <textureOrigin><x>45</x><y>73</y></textureOrigin>
+      </node>
+
+      <node> 
+        <name>head</name>
+        <pspace_pos><x>0</x><y>-68</y></pspace_pos>
+        <orientation>0</orientation>
+        <parent>torso</parent>
+        <isLeaf>T</isLeaf>
+        <texture>Art/PlayerTextures/Test/skeletonhead</texture>
+        <textureOrigin><x>20</x><y>60</y></textureOrigin>
+      </node>
+
+      <node> 
+        <name>rightarm</name>
+        <pspace_pos><x>38</x><y>-52</y></pspace_pos>
+        <orientation>0</orientation>
+        <parent>torso</parent>
+        <isLeaf>F</isLeaf>
+        <texture>Art/PlayerTextures/Test/skeletonuparmright</texture>
+        <textureOrigin><x>10</x><y>10</y></textureOrigin>
+      </node>
+
+      <node> 
+        <name>leftarm</name>
+        <pspace_pos><x>-38</x><y>-52</y></pspace_pos>
+        <orientation>0</orientation>
+        <parent>torso</parent>
+        <isLeaf>F</isLeaf>
+        <texture>Art/PlayerTextures/Test/skeletonuparmleft</texture>
+        <textureOrigin><x>28</x><y>10</y></textureOrigin>
+      </node>
+
+      <node> 
+        <name>rightleg</name>
+        <pspace_pos><x>20</x><y>62</y></pspace_pos>
+        <orientation>0</orientation>
+        <parent>torso</parent>
+        <isLeaf>F</isLeaf>
+        <texture>Art/PlayerTextures/Test/skeletonuplegright</texture>
+        <textureOrigin><x>38</x><y>16</y></textureOrigin>
+      </node>
+
+      <node> 
+        <name>leftleg</name>
+        <pspace_pos><x>-20</x><y>62</y></pspace_pos>
+        <orientation>0</orientation>
+        <parent>torso</parent>
+        <isLeaf>F</isLeaf>
+        <texture>Art/PlayerTextures/Test/skeletonuplegleft</texture>
+        <textureOrigin><x>42</x><y>16</y></textureOrigin>
+      </node>
+
+      <node> 
+        <name>rightarmlow</name>
+        <pspace_pos><x>15</x><y>72</y></pspace_pos>
+        <orientation>0</orientation>
+        <parent>rightarm</parent>
+        <isLeaf>T</isLeaf>
+        <texture>Art/PlayerTextures/Test/skeletonlowarmright</texture>
+        <textureOrigin><x>10</x><y>3</y></textureOrigin>
+      </node>
+
+      <node> 
+        <name>leftarmlow</name>
+        <pspace_pos><x>-23</x><y>72</y></pspace_pos>
+        <orientation>0</orientation>
+        <parent>leftarm</parent>
+        <isLeaf>T</isLeaf>
+        <texture>Art/PlayerTextures/Test/skeletonlowarmleft</texture>
+        <textureOrigin><x>40</x><y>3</y></textureOrigin>
+      </node>   
+
+      <node> 
+        <name>rightleglow</name>
+        <pspace_pos><x>1</x><y>104</y></pspace_pos>
+        <orientation>0</orientation>
+        <parent>rightleg</parent>
+        <isLeaf>T</isLeaf>
+        <texture>Art/PlayerTextures/Test/skeletonlowlegright</texture>
+        <textureOrigin><x>13</x><y>7</y></textureOrigin>
+      </node>
+
+      <node> 
+        <name>leftleglow</name>
+        <pspace_pos><x>-1</x><y>104</y></pspace_pos>
+        <orientation>0</orientation>
+        <parent>leftleg</parent>
+        <isLeaf>T</isLeaf>
+        <texture>Art/PlayerTextures/Test/skeletonlowlegleft</texture>
+        <textureOrigin><x>13</x><y>7</y></textureOrigin>
+      </node>
+
+  </player>
+</players>  
+</playerData>
